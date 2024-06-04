@@ -6,14 +6,15 @@ API desenvolvida para o gerenciamento de emprestimos de livros.
 
 ## Funcionalidades
 
-- CRUD Livros
-- CRUD Usuario
-- CRUD Emprestimos
-- Emprestimo só pode ser feito caso o livro esteja disponivel em estoque
-- Consultar todos os emprestimos de um Usuario
-- Consultar todos os emprestimos de um livro
-- Enviar um alerta com uma mensagem com os dias de atraso,caso houver, quando for feita a devolucao de um emprestimo
-- Ao devolver um emprestimo o estoque do livro relacionado é acrescido
+- CRUD Livros.
+- CRUD Usuários.
+- CRUD Empréstimos.
+- Empréstimo só pode ser feito caso o livro esteja disponível em estoque.
+- Consultar todos os empréstimos de um usuário.
+- Consultar todos os empréstimos de um livro.
+- Enviar um alerta com uma mensagem com os dias de atraso, quando for feita a devolução de um empréstimo com a data atual maior que data esperada de devolução.
+- Ao realizar um empréstimo o estoque do livro relacionado é decrescido.
+- Ao devolver um empréstimo o estoque do livro relacionado é acrescido.
 
 ## Tecnologias e Ferramentas
 
