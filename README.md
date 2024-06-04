@@ -1,7 +1,7 @@
 
-# BookManagerAPI
+# BookManager
 
-Sistema para gerenciamento de emprestimos de livros.
+API desenvolvida para o gerenciamento de emprestimos de livros.
 
 
 ## Funcionalidades
