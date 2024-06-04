@@ -1,5 +1,5 @@
 
-# BookManager
+# BookManagerAPI
 
 Sistema para gerenciamento de emprestimos de livros.
 
